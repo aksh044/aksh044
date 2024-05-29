@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Chaudhari</h1>
 <h3 align="center">Full Stack Developer and a Competitive Programmer</h3>
-- 🔭 I’m currently working on *MERN Stack*<br>
+- 🔭 I’m currently working on <b>MERN Stack</b><br>
 - 👯 I’m looking to collaborate on *Open Source Projects*<br>
 - 🌱 I’m currently learning *Web Development*<br>
 - 💬 Ask me about *React, Node, Express, MongoDB, MySQL, HTML, CSS, JavaScript, C, C++, Java*<br>
