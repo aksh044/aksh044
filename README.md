@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akshay Chaudhari</h1>
 <h3 align="center">Full Stack Developer and a Competitive Programmer</h3>
-- 🔭 I’m currently working on **MERN Stack**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🌱 I’m currently learning **Web Development **
-- 💬 Ask me about **React, Node, Express, MongoDB, MySQL, HTML, CSS, JavaScript, C, C++, Java**
-- 📫 How to reach me **akshaychaudhari.contact@gmail.com**
+- 🔭 I’m currently working on **MERN Stack**<br>
+- 👯 I’m looking to collaborate on **Open Source Projects**<br>
+- 🌱 I’m currently learning **Web Development **<br>
+- 💬 Ask me about **React, Node, Express, MongoDB, MySQL, HTML, CSS, JavaScript, C, C++, Java**<br>
+- 📫 How to reach me **akshaychaudhari.contact@gmail.com**<br>
 
 <div> <a href="https://www.linkedin.com/in/akshay-chaudhari-b500b222a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/aksh044" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
