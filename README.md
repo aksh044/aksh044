@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on <b>Open Source Projects</b><br>
 - 🌱 I’m currently learning <b>Web Development</b><br>
 - 💬 Ask me about <b>React, Node, Express, MongoDB, MySQL, HTML, CSS, JavaScript, C, C++, Java</b><br>
-- 📫 How to reach me <b>akshaychaudhari.contact@gmail.com</b><br>
+- 📫 How to reach me <b>akshaychaudhari.contact@gmail.com</b><br><br><br>
 
 <div> <a href="https://www.linkedin.com/in/akshay-chaudhari-b500b222a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/aksh044" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
